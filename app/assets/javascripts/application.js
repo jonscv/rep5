@@ -12,5 +12,6 @@
 //
 //= require jquery
 //= require jquery_ujs
+//= require src/js/jquery.swipebox.js
 //= require turbolinks
 //= require_tree .
